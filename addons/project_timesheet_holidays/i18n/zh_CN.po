@@ -6,6 +6,7 @@
 # waveyeung <waveyeung@qq.com>, 2017
 # Jeffery CHEN Fan <jeffery9@gmail.com>, 2017
 # Martin Trigaux, 2017
+# e2f_cn c5 <jarvisn@ecinnovations.com>, 2018
 # e2f <projects@e2f.com>, 2018
 msgid ""
 msgstr ""
@@ -40,7 +41,7 @@ msgstr "公司"
 #: model:ir.model.fields,help:project_timesheet_holidays.field_res_company_leave_timesheet_project_id
 #: model:ir.model.fields,help:project_timesheet_holidays.field_res_config_settings_leave_timesheet_project_id
 msgid "Default project value for timesheet generated from leave type."
-msgstr "针对从休假类型中生成的时间表的默认项目值。"
+msgstr "从休假类型生成的工时表的默认项目值。"
 
 #. module: project_timesheet_holidays
 #: code:addons/project_timesheet_holidays/models/hr_holidays.py:30
@@ -48,7 +49,7 @@ msgstr "针对从休假类型中生成的时间表的默认项目值。"
 msgid ""
 "For the leaves to generate timesheet, the internal project and task are "
 "requried."
-msgstr "对于休假生成的时间表，需要重新进行内部的项目和任务。"
+msgstr "对于生成工时表的休假，要求有内部项目和任务。"
 
 #. module: project_timesheet_holidays
 #: model:ir.model.fields,field_description:project_timesheet_holidays.field_hr_holidays_status_timesheet_generate
@@ -60,7 +61,7 @@ msgstr "生成时间表"
 msgid ""
 "If checked, when validating a leave, timesheet will be generated in the "
 "Vacation Project of the company."
-msgstr "如果进行检查，在验证休假时，将在公司的假期项目中生成时间表。"
+msgstr "如果选中，在验证休假时，将在公司的假期项目中生成时间表。"
 
 #. module: project_timesheet_holidays
 #: code:addons/project_timesheet_holidays/models/res_company.py:30
@@ -130,7 +131,7 @@ msgstr "工时表"
 msgid ""
 "You cannot delete timesheet lines attached to a leaves. Please cancel the "
 "leaves instead."
-msgstr "您无法删除附于休假后的时间表线。请取消休假。"
+msgstr "您无法删除附于休假后的时间表行。请取消休假。"
 
 #. module: project_timesheet_holidays
 #: model:ir.model,name:project_timesheet_holidays.model_res_config_settings

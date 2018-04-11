@@ -3,14 +3,16 @@
 # * website_hr_recruitment
 # 
 # Translators:
-# Jeffery CHEN Fan <jeffery9@gmail.com>, 2017
+# e2f_cn c7 <e2f_cn_c7@outlook.com>, 2017
 # Martin Trigaux, 2017
 # Liping Wang <lynn.config@gmail.com>, 2017
+# Jeffery CHEN Fan <jeffery9@gmail.com>, 2017
 # fausthuang, 2017
 # Talway <9010446@qq.com>, 2017
 # Bo Cao, 2017
 # Gary Wei <Gary.wei@elico-corp.com>, 2017
 # 苏州远鼎 <tiexinliu@126.com>, 2017
+# e2f_cn c5 <jarvisn@ecinnovations.com>, 2018
 # e2f <projects@e2f.com>, 2018
 msgid ""
 msgstr ""
@@ -74,22 +76,22 @@ msgstr "同比增长 50%"
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.s_hr_rating_options
 msgid "<i class=\"fa fa-bolt\"/> Bolts"
-msgstr "<i class=\"fa fa-bolt\"/>闪电"
+msgstr "<i class=\"fa fa-bolt\"/> 闪电"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.s_hr_rating_options
 msgid "<i class=\"fa fa-heart\"/> Hearts"
-msgstr "<i class=\"fa fa-heart\"/>核心"
+msgstr "<i class=\"fa fa-heart\"/> 心"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.s_hr_rating_options
 msgid "<i class=\"fa fa-star\"/> Stars"
-msgstr "<i class=\"fa fa-star\"/>星星"
+msgstr "<i class=\"fa fa-star\"/> 星星"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.s_hr_rating_options
 msgid "<i class=\"fa fa-tasks\"/> Bar"
-msgstr "<i class=\"fa fa-tasks\"/>条"
+msgstr "<i class=\"fa fa-tasks\"/> 条"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.apply
@@ -138,7 +140,7 @@ msgstr "<strong>这项工作有什么好处？</strong>"
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
 msgid "Achieve monthly targets"
-msgstr "完成单月目标"
+msgstr "完成每月目标"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.job_countries
@@ -190,7 +192,7 @@ msgstr "按类别划分的品牌产品和服务，如旅游、电子、健康、
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
 msgid "Company Growth:"
-msgstr "公司增长"
+msgstr "公司增长："
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
@@ -220,7 +222,7 @@ msgstr "请继续浏览我们的网站"
 #: model:ir.ui.view,arch_db:website_hr_recruitment.index
 msgid ""
 "Create new job pages from the <strong><i>+New</i></strong> top-right button."
-msgstr "使用<strong><i>右上角的 +新建</i></strong>按钮创建新的工作页面。"
+msgstr "使用右上角的 <strong><i>+新建</i></strong> 按钮创建新的工作页面。"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
@@ -232,12 +234,12 @@ msgstr "直接与职能顾问协调以便进行资格认证和跟进"
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
 msgid "Discount Programs"
-msgstr "折扣项目"
+msgstr "折扣计划"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
 msgid "Eat &amp; Drink"
-msgstr "吃喝"
+msgstr "饮食"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
@@ -319,7 +321,7 @@ msgstr "加入我们，我们为你提供了非同寻常的机会来学习、和
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
 msgid ""
 "Large apps scope: CRM, MRP, Accounting, Inventory, HR, Project Mgt, etc."
-msgstr "广阔的应用范围: CRM, MRP, 会计, 库存, HR, 项目管理, 等."
+msgstr "广阔的应用范围: CRM、MRP、会计、库存、人力资源、项目管理等。"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.thankyou
@@ -336,7 +338,7 @@ msgstr "需要更多的信息？"
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.content_new_job_offer
 msgid "New Job Offer"
-msgstr "新工作提供"
+msgstr "提供新工作"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
@@ -348,7 +350,7 @@ msgstr "没有外拨电话，您可以获得潜在客户并专注于为他们提
 msgid ""
 "Only a couple blocs from BART, Caltrain, Highway 101, carpool pickup, and "
 "Bay Bridge."
-msgstr "距离 BART、加州湾区铁路、101 号高速公路、合伙拼车和海湾大桥只有几个街区。"
+msgstr "距离 BART、加州湾区铁路、101 号高速公路、合伙拼车点和海湾大桥只有几个街区。"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.index
@@ -363,12 +365,12 @@ msgstr "超过预期的可能性："
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
 msgid "PTOs"
-msgstr "PTO"
+msgstr "带薪休假"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
 msgid "Peet's and Philz coffee provided all day to order and pantry snacks"
-msgstr "Peet's 和 Philz 咖啡全天提供订餐和点心零食"
+msgstr "Peet 和 Philz 咖啡店全天提供订餐和点心零食"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
@@ -378,12 +380,12 @@ msgstr "个人发展："
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
 msgid "Play any sport with colleagues and the bill is covered"
-msgstr "和同事一起做运动，并支付费用"
+msgstr "和同事一起健身，并支付费用"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
 msgid "Pre-tax commuter benefitsbr <br/>(parking and transit)"
-msgstr "税前通勤者福利（<br/>停车和过境）"
+msgstr "税前通勤者福利 <br/>（停车和过境）"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
@@ -433,7 +435,12 @@ msgid ""
 "                in charge of the full sales cycle from the opportunity\n"
 "                qualification to the negotiation, going through astonishing\n"
 "                product demos."
-msgstr "简短的工作总结：聪明人在销售工作中可以快速学习新的行业管理实践。您将负责从机会确认到谈判的整个销售周期，并进行非凡的产品演示。"
+msgstr ""
+"简短的工作总结：聪明人\n"
+"                在销售工作中可以快速学习新的行业管理实践。您将\n"
+"                负责从机会确认到谈判的整个销售周期，\n"
+"                并进行非凡的\n"
+"                产品演示。"
 
 #. module: website_hr_recruitment
 #: model:ir.model,name:website_hr_recruitment.model_hr_recruitment_source
@@ -443,7 +450,7 @@ msgstr "应聘者来源"
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
 msgid "Sponsored Events"
-msgstr "赞助的活动"
+msgstr "赞助活动"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
@@ -463,13 +470,13 @@ msgstr "文化"
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
 msgid "The founder’s story"
-msgstr "创始人故事"
+msgstr "创始人的故事"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
 msgid ""
 "Tuesday Dinners, Monthly Lunch Mixers, Monthly Happy Hour, Annual day event"
-msgstr "星期二晚餐、每月午餐搅拌机、每月欢乐时光、年度日事件"
+msgstr "星期二晚餐、每月午餐会面、每月欢乐时光、年度日事件"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
@@ -479,7 +486,7 @@ msgstr "美国 + 加拿大地区"
 #. module: website_hr_recruitment
 #: model:ir.model.fields,field_description:website_hr_recruitment.field_hr_recruitment_source_url
 msgid "Url Parameters"
-msgstr "url 参数"
+msgstr "网址参数"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
@@ -489,7 +496,7 @@ msgstr "假期、病假和带薪休假"
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
 msgid "Variability of the Job:"
-msgstr "工作的可变性："
+msgstr "工作变动："
 
 #. module: website_hr_recruitment
 #: model:ir.actions.act_url,name:website_hr_recruitment.action_open_website
@@ -504,7 +511,7 @@ msgstr "网站说明"
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
 msgid "What people say about us?"
-msgstr "人们怎么说我们？"
+msgstr "大家怎么评价？"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.default_website_description
@@ -545,7 +552,7 @@ msgstr "您的应用程序已发送至："
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.index
 msgid "for job opportunities."
-msgstr "对于工作机会"
+msgstr "对于工作机会。"
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.index
